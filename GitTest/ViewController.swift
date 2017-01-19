@@ -27,8 +27,3 @@ class ViewController: UIViewController {
 //1
 
 }
-
-//222
-
-
-//aa
