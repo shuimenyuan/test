@@ -13,8 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() { 
         super.viewDidLoad()
         
-        //1
-        //aaaa  12
+        //modify at master branch
         // Do any additional setup after loading the view, typically from a nib.
     }
 
