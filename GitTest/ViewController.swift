@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         
         //modify at master branch
         //test
+        //fix a bug
         // Do any additional setup after loading the view, typically from a nib.
     }
 
