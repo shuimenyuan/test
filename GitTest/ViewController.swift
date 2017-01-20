@@ -5,10 +5,9 @@
 //  Created by Joebo Jiang on 18/01/2017.
 //  Copyright © 2017 huan. All rights reserved.
 //
-//10000
 
 import UIKit
-//222
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() { 
@@ -23,9 +22,5 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         ////
         // Dispose of any resources that can be recreated.
-        //ss
-
-//1
-//22
+    }
 }
-//
