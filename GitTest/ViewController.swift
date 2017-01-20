@@ -5,10 +5,10 @@
 //  Created by Joebo Jiang on 18/01/2017.
 //  Copyright © 2017 huan. All rights reserved.
 //
-10000
+//10000
 
 import UIKit
-222
+//222
 class ViewController: UIViewController {
 
     override func viewDidLoad() { 
