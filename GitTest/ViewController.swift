@@ -22,6 +22,7 @@ class ViewController: UIViewController {
         //fix a bug
         // Do any additional setup after loading the view, typically from a nib.
         //1
+        //2
     }
 
     override func didReceiveMemoryWarning() {
