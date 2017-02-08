@@ -9,7 +9,7 @@
 import UIKit
 1
 class ViewController: UIViewController {
-
+a
     override func viewDidLoad() { 
         super.viewDidLoad()
         
@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         //test
         //fix a bug
         // Do any additional setup after loading the view, typically from a nib.
-    }d
+    }df
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
