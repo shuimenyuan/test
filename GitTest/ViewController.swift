@@ -7,23 +7,29 @@
 //
 
 import UIKit
-1
+
 class ViewController: UIViewController {
-a
-    override func viewDidLoad() { 
+    override func viewDidLoad() {
         super.viewDidLoad()
-        
+        //sunny3
+        //joebo
+        //hello world
+        //fix bugs
+        //
         //modify at master branch
-        //test
+        //test1
         //fix a bug
         // Do any additional setup after loading the view, typically from a nib.
-    }df
+    }
+        //1
+        //2
+        //3
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        ////
+        ////ddd
         // Dispose of any resources that can be recreated.
     }
 }
-1
-2
+
+
