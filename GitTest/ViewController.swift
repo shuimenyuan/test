@@ -6,8 +6,13 @@
 //  Copyright © 2017 huan. All rights reserved.
 //
 
+<<<<<<< HEAD
 import UIKit
  2
+=======
+import UIKit1
+ 
+>>>>>>> 1
 class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
