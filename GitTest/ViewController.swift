@@ -17,8 +17,13 @@ class ViewController: UIViewController {
         //fix bugsss
         //
         //modify at master branch
+<<<<<<< HEAD
         //test11
         //fix a bug
+=======
+        //test1
+        //fix a bug2
+>>>>>>> 40c76ead780ca70715711d008914a60166b5c015
         // Do any additional setup after loading the view, typically from a nib.
 <<<<<<< HEAD
     }de
