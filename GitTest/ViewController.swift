@@ -12,7 +12,7 @@ import UIKit
 =======
 import UIKit1
  
->>>>>>> 1
+>>>>>>> 2
 class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
