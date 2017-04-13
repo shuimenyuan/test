@@ -7,13 +7,16 @@
 //
 
 import UIKit
+<<<<<<< HEAD
 //22
+=======
+//21
+>>>>>>> develop
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-//
-
+//d
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         //test
