@@ -7,11 +7,6 @@
 //
 
 import UIKit
-<<<<<<< HEAD
-//22
-=======
-//21
->>>>>>> develop
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
